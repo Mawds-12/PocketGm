@@ -75487,18 +75487,18 @@
    "loyalty": 79,
    "ambition": 76,
    "greed": 60,
-   "speed": 80
+   "speed": 80,
    "burst": 8,
    "power": 8,
    "jumping": 80,
-   "agility": 88
+   "agility": 88,
    "injuryProne": 38,
-   "intelligence": 90
+   "intelligence": 90,
    "vision": 92,
    "decisions": 8,
    "discipline": 93,
    "ballSecurity": 56,
-   "skillMove": 92
+   "skillMove": 92,
    "sPassAcc": 45,
    "mPassAcc": 45,
    "dPassAcc": 45,
@@ -119167,7 +119167,7 @@
    "loyalty": 63,
    "ambition": 73,
    "greed": 77,
-   "speed": 77
+   "speed": 77,
    "burst": 93,
    "power": 80,
    "jumping": 95,
@@ -128569,7 +128569,7 @@
    "guarantee": 0,
    "eGuarantee": 0,
    "length": 4,
-   "eLength": 4
+   "eLength": 4,
    "rating": 98,
    "potential": 1,
    "loyalty": 79,
@@ -166488,8 +166488,8 @@
    "eSalary": 700011,
    "guarantee": 0,
    "eGuarantee": 0,
-   "length": 1
-   "eLength": 1
+   "length": 1,
+   "eLength": 1,
    "rating": 98,
    "potential": 0,
    "loyalty": 82,
